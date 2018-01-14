@@ -1,8 +1,6 @@
 # esp8266_stuff
 
-Some sketches/scripts/etc I did for my Arduino.
-
-Tested on my Lolin ESP8266 NodeMCU v3 board. 
+Some sketches/scripts/etc I did for my Lolin ESP8266 NodeMCU v3 dev-board. 
 
 The fastest and easiest way to proceed with it is to: 
 * install CH340G driver from https://github.com/adrianmihalko/ch340g-ch34g-ch34x-mac-os-x-driver
